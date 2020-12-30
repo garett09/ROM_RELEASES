@@ -1,3 +1,3 @@
 # ROM_RELEASES
 
-All builds can be found here.
+All builds from SAKURA ROM can be found here.
