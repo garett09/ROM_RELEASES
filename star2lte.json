@@ -2,11 +2,11 @@
   "response": [
     {
         "device": "star2lte",
-        "filename": "lineage-18.1-20210114-UNOFFICIAL-star2lte.zip",
-        "download": "https://github.com/garett09/ROM_RELEASES/releases/download/lineage_releases/lineage-18.1-20210114-UNOFFICIAL-star2lte.zip",
-        "timestamp": 1610624390,
-        "md5": "32e50cbaf2de379305b2a93b5d14d8d0",
-        "size": 604962950,
+        "filename": "lineage-18.1-20210725-UNOFFICIAL-star2lte.zip",
+        "download": "https://mva2.androidfilehost.com/dl/avEua0rdmo7XhsDSHBg5gg/1627326792/14943124697586373653/lineage-18.1-20210725-UNOFFICIAL-star2lte.zip",
+        "timestamp": 1627235136,
+        "md5": "c52de3468f470b3afeac3cf6867ca81c",
+        "size": 611381790,
         "version": "18.1",
         "romtype": "UNOFFICIAL"
     }
