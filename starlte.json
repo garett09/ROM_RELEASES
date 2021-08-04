@@ -1,14 +1,13 @@
 {
   "response": [
     {
-        "device": "starlte",
-        "filename": "lineage-18.1-20210114-UNOFFICIAL-star2lte.zip",
-        "download": "https://github.com/garett09/ROM_RELEASES/releases/download/lineage_releases/lineage-18.1-20210114-UNOFFICIAL-star2lte.zip",
-        "timestamp": 1610624390,
-        "md5": "32e50cbaf2de379305b2a93b5d14d8d0",
-        "size": 604962950,
-        "version": "18.1",
-        "romtype": "UNOFFICIAL"
+      "datetime": ,
+      "filename": "lineage-18.1-20210803-UNOFFICIAL-starlte.zip",
+      "id": "",
+      "romtype": "UNOFFICIAL",
+      "size": ,
+      "url": "",
+      "version": "18.1"
     }
   ]
 }
